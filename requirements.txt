@@ -3,3 +3,15 @@ flask_cors
 requests
 bs4
 pymongo
+certifi
+chardet
+click
+gunicorn
+idna
+itsdangerous
+Jinja2
+MarkupSafe
+six
+soupsieve
+urllib3
+Werkzeug
