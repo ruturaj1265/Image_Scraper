@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request,jsonify
 from flask_cors import CORS,cross_origin
+from pymongo.mongo_client import MongoClient
 import requests
 from bs4 import BeautifulSoup
 from urllib.request import urlopen as uReq
